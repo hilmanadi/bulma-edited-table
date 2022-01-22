@@ -3226,14 +3226,6 @@ div.icon-text {
 		width: 100%;				
     }
 	
-	.table tr td a{
-		text-decoration: none;
-		margin-right: 5px;
-		display: inline-block;
-		width: 25%;
-		text-align: center;
-	}
-	
     .table tr td::before{
         content: attr(data-label);
         position: absolute;
